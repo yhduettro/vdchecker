@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F138A0AC197347B00022F7DE /* ill_Info in Resources */ = {isa = PBXBuildFile; fileRef = F138A0AB197347B00022F7DE /* ill_Info */; };
 		F1985F5A1972231400277585 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F591972231400277585 /* Foundation.framework */; };
 		F1985F5C1972231500277585 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5B1972231500277585 /* CoreGraphics.framework */; };
 		F1985F5E1972231500277585 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5D1972231500277585 /* UIKit.framework */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F138A0AB197347B00022F7DE /* ill_Info */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ill_Info; sourceTree = "<group>"; };
 		F1985F561972231400277585 /* vdchecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vdchecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1985F591972231400277585 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F1985F5B1972231500277585 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -85,6 +87,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F138A0A9197345FD0022F7DE /* Swift Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Swift Files";
+			sourceTree = "<group>";
+		};
+		F138A0AA1973470B0022F7DE /* Json Files */ = {
+			isa = PBXGroup;
+			children = (
+				F138A0AB197347B00022F7DE /* ill_Info */,
+			);
+			name = "Json Files";
+			sourceTree = "<group>";
+		};
 		F1985F4D1972231400277585 = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +135,8 @@
 		F1985F5F1972231500277585 /* vdchecker */ = {
 			isa = PBXGroup;
 			children = (
+				F138A0AA1973470B0022F7DE /* Json Files */,
+				F138A0A9197345FD0022F7DE /* Swift Files */,
 				F1985F911972234300277585 /* Site Files */,
 				F1985F681972231500277585 /* PLAppDelegate.h */,
 				F1985F691972231500277585 /* PLAppDelegate.m */,
@@ -251,6 +270,7 @@
 				F1985F751972231500277585 /* Images.xcassets in Resources */,
 				F1985F6D1972231500277585 /* Main_iPhone.storyboard in Resources */,
 				F1985F641972231500277585 /* InfoPlist.strings in Resources */,
+				F138A0AC197347B00022F7DE /* ill_Info in Resources */,
 				F1985F941972235600277585 /* PageScrap.php in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -487,6 +507,7 @@
 				F1985F8D1972231500277585 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F1985F8E1972231500277585 /* Build configuration list for PBXNativeTarget "vdcheckerTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +516,7 @@
 				F1985F901972231500277585 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
