@@ -20,7 +20,7 @@ function connectToDB()
 	{
 		// データベース「PageScrap」を使うように設定する
 		mysql_select_db("lans_15097304_quiz");
-		,
+
 		// テキストエンコーディングにUTF-8を使用する
 		mysql_set_charset('utf-8');
 	}
