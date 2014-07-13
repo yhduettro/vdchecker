@@ -22,6 +22,8 @@
 		F19855AB196E324B0061BBF9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F198558A196E324B0061BBF9 /* UIKit.framework */; };
 		F19855B3196E324B0061BBF9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F19855B1196E324B0061BBF9 /* InfoPlist.strings */; };
 		F19855B5196E324B0061BBF9 /* vdcheckerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F19855B4196E324B0061BBF9 /* vdcheckerTests.m */; };
+		F1C612E619721AB10071E522 /* PageScrap.php in Resources */ = {isa = PBXBuildFile; fileRef = F1C612E419721AB10071E522 /* PageScrap.php */; };
+		F1C612E719721AB10071E522 /* RemoteInfo in Resources */ = {isa = PBXBuildFile; fileRef = F1C612E519721AB10071E522 /* RemoteInfo */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +57,8 @@
 		F19855B0196E324B0061BBF9 /* vdcheckerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "vdcheckerTests-Info.plist"; sourceTree = "<group>"; };
 		F19855B2196E324B0061BBF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F19855B4196E324B0061BBF9 /* vdcheckerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vdcheckerTests.m; sourceTree = "<group>"; };
+		F1C612E419721AB10071E522 /* PageScrap.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; name = PageScrap.php; path = "Site Files/PageScrap.php"; sourceTree = SOURCE_ROOT; };
+		F1C612E519721AB10071E522 /* RemoteInfo */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = RemoteInfo; path = "Site Files/RemoteInfo"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +163,8 @@
 		F1C612E219720F530071E522 /* Site Files */ = {
 			isa = PBXGroup;
 			children = (
+				F1C612E419721AB10071E522 /* PageScrap.php */,
+				F1C612E519721AB10071E522 /* RemoteInfo */,
 			);
 			name = "Site Files";
 			sourceTree = "<group>";
@@ -240,10 +246,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1C612E719721AB10071E522 /* RemoteInfo in Resources */,
 				F198559D196E324B0061BBF9 /* Main_iPad.storyboard in Resources */,
 				F19855A2196E324B0061BBF9 /* Images.xcassets in Resources */,
 				F198559A196E324B0061BBF9 /* Main_iPhone.storyboard in Resources */,
 				F1985591196E324B0061BBF9 /* InfoPlist.strings in Resources */,
+				F1C612E619721AB10071E522 /* PageScrap.php in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
