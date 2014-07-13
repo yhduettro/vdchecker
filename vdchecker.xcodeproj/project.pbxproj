@@ -114,6 +114,7 @@
 		F198558C196E324B0061BBF9 /* vdchecker */ = {
 			isa = PBXGroup;
 			children = (
+				F1C612E219720F530071E522 /* Site Files */,
 				F1985595196E324B0061BBF9 /* PLAppDelegate.h */,
 				F1985596196E324B0061BBF9 /* PLAppDelegate.m */,
 				F1985598196E324B0061BBF9 /* Main_iPhone.storyboard */,
@@ -153,6 +154,13 @@
 				F19855B1196E324B0061BBF9 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F1C612E219720F530071E522 /* Site Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Site Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -471,6 +479,7 @@
 				F19855BA196E324B0061BBF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F19855BB196E324B0061BBF9 /* Build configuration list for PBXNativeTarget "vdcheckerTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +488,7 @@
 				F19855BD196E324B0061BBF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
