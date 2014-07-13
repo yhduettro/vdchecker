@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F138A0AC197347B00022F7DE /* ill_Info in Resources */ = {isa = PBXBuildFile; fileRef = F138A0AB197347B00022F7DE /* ill_Info */; };
+		F138A0AE19734AAB0022F7DE /* ill_Info in Resources */ = {isa = PBXBuildFile; fileRef = F138A0AD19734AAB0022F7DE /* ill_Info */; };
 		F1985F5A1972231400277585 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F591972231400277585 /* Foundation.framework */; };
 		F1985F5C1972231500277585 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5B1972231500277585 /* CoreGraphics.framework */; };
 		F1985F5E1972231500277585 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5D1972231500277585 /* UIKit.framework */; };
@@ -38,7 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F138A0AB197347B00022F7DE /* ill_Info */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ill_Info; sourceTree = "<group>"; };
+		F138A0AD19734AAB0022F7DE /* ill_Info */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ill_Info; path = "Json Files/ill_Info"; sourceTree = SOURCE_ROOT; };
 		F1985F561972231400277585 /* vdchecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vdchecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1985F591972231400277585 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F1985F5B1972231500277585 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -97,7 +97,7 @@
 		F138A0AA1973470B0022F7DE /* Json Files */ = {
 			isa = PBXGroup;
 			children = (
-				F138A0AB197347B00022F7DE /* ill_Info */,
+				F138A0AD19734AAB0022F7DE /* ill_Info */,
 			);
 			name = "Json Files";
 			sourceTree = "<group>";
@@ -269,8 +269,8 @@
 				F1985F701972231500277585 /* Main_iPad.storyboard in Resources */,
 				F1985F751972231500277585 /* Images.xcassets in Resources */,
 				F1985F6D1972231500277585 /* Main_iPhone.storyboard in Resources */,
+				F138A0AE19734AAB0022F7DE /* ill_Info in Resources */,
 				F1985F641972231500277585 /* InfoPlist.strings in Resources */,
-				F138A0AC197347B00022F7DE /* ill_Info in Resources */,
 				F1985F941972235600277585 /* PageScrap.php in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
