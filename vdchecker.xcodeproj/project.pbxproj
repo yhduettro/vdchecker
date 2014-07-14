@@ -14,6 +14,11 @@
 		F138A0BB1973534A0022F7DE /* top_2.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0B71973534A0022F7DE /* top_2.png */; };
 		F138A0BC1973534A0022F7DE /* top_3.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0B81973534A0022F7DE /* top_3.png */; };
 		F138A0BD1973534A0022F7DE /* top_4.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0B91973534A0022F7DE /* top_4.png */; };
+		F138A0C0197354440022F7DE /* botan_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0BE197354440022F7DE /* botan_1.png */; };
+		F138A0C1197354440022F7DE /* botan_2.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0BF197354440022F7DE /* botan_2.png */; };
+		F138A0C5197355F80022F7DE /* botan_3.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0C2197355F80022F7DE /* botan_3.png */; };
+		F138A0C6197355F80022F7DE /* botan_4.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0C3197355F80022F7DE /* botan_4.png */; };
+		F138A0C7197355F80022F7DE /* check_1.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A0C4197355F80022F7DE /* check_1.png */; };
 		F1985F5A1972231400277585 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F591972231400277585 /* Foundation.framework */; };
 		F1985F5C1972231500277585 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5B1972231500277585 /* CoreGraphics.framework */; };
 		F1985F5E1972231500277585 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5D1972231500277585 /* UIKit.framework */; };
@@ -52,6 +57,11 @@
 		F138A0B71973534A0022F7DE /* top_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = top_2.png; path = Images/top_2.png; sourceTree = "<group>"; };
 		F138A0B81973534A0022F7DE /* top_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = top_3.png; path = Images/top_3.png; sourceTree = "<group>"; };
 		F138A0B91973534A0022F7DE /* top_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = top_4.png; path = Images/top_4.png; sourceTree = "<group>"; };
+		F138A0BE197354440022F7DE /* botan_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = botan_1.png; path = Images/botan_1.png; sourceTree = "<group>"; };
+		F138A0BF197354440022F7DE /* botan_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = botan_2.png; path = Images/botan_2.png; sourceTree = "<group>"; };
+		F138A0C2197355F80022F7DE /* botan_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = botan_3.png; path = Images/botan_3.png; sourceTree = "<group>"; };
+		F138A0C3197355F80022F7DE /* botan_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = botan_4.png; path = Images/botan_4.png; sourceTree = "<group>"; };
+		F138A0C4197355F80022F7DE /* check_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = check_1.png; path = Images/check_1.png; sourceTree = "<group>"; };
 		F1985F561972231400277585 /* vdchecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vdchecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1985F591972231400277585 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F1985F5B1972231500277585 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -118,11 +128,16 @@
 		F138A0AF19734E050022F7DE /* Images Files */ = {
 			isa = PBXGroup;
 			children = (
+				F138A0BE197354440022F7DE /* botan_1.png */,
+				F138A0BF197354440022F7DE /* botan_2.png */,
+				F138A0C2197355F80022F7DE /* botan_3.png */,
+				F138A0C3197355F80022F7DE /* botan_4.png */,
+				F138A0C4197355F80022F7DE /* check_1.png */,
+				F138A0B019734F000022F7DE /* top.png */,
 				F138A0B61973534A0022F7DE /* top_1.png */,
 				F138A0B71973534A0022F7DE /* top_2.png */,
 				F138A0B81973534A0022F7DE /* top_3.png */,
 				F138A0B91973534A0022F7DE /* top_4.png */,
-				F138A0B019734F000022F7DE /* top.png */,
 			);
 			name = "Images Files";
 			sourceTree = "<group>";
@@ -302,13 +317,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1985F951972235600277585 /* RemoteInfo in Resources */,
+				F138A0C5197355F80022F7DE /* botan_3.png in Resources */,
+				F138A0C0197354440022F7DE /* botan_1.png in Resources */,
 				F1985F701972231500277585 /* Main_iPad.storyboard in Resources */,
+				F138A0C7197355F80022F7DE /* check_1.png in Resources */,
 				F138A0BD1973534A0022F7DE /* top_4.png in Resources */,
+				F138A0C6197355F80022F7DE /* botan_4.png in Resources */,
 				F1985F751972231500277585 /* Images.xcassets in Resources */,
 				F1985F6D1972231500277585 /* Main_iPhone.storyboard in Resources */,
 				F138A0AE19734AAB0022F7DE /* ill_Info in Resources */,
 				F138A0B119734F000022F7DE /* top.png in Resources */,
 				F138A0BB1973534A0022F7DE /* top_2.png in Resources */,
+				F138A0C1197354440022F7DE /* botan_2.png in Resources */,
 				F1985F641972231500277585 /* InfoPlist.strings in Resources */,
 				F1985F941972235600277585 /* PageScrap.php in Resources */,
 				F138A0BA1973534A0022F7DE /* top_1.png in Resources */,
