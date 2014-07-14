@@ -76,6 +76,20 @@
 		F138A156197372700022F7DE /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F138A155197372700022F7DE /* AboutViewController.m */; };
 		F138A158197373400022F7DE /* ichiran@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A157197373400022F7DE /* ichiran@2x.png */; };
 		F138A15E1973766F0022F7DE /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F138A15D1973766F0022F7DE /* FirstViewController.m */; };
+		F138A16519737F610022F7DE /* LaunchImage.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16419737F610022F7DE /* LaunchImage.png */; };
+		F138A17419737FF30022F7DE /* pluslife-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16719737FF30022F7DE /* pluslife-60@2x.png */; };
+		F138A17519737FF30022F7DE /* pluslife-72.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16819737FF30022F7DE /* pluslife-72.png */; };
+		F138A17619737FF30022F7DE /* pluslife-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16919737FF30022F7DE /* pluslife-72@2x.png */; };
+		F138A17719737FF30022F7DE /* pluslife-76.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16A19737FF30022F7DE /* pluslife-76.png */; };
+		F138A17819737FF30022F7DE /* pluslife-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16B19737FF30022F7DE /* pluslife-76@2x.png */; };
+		F138A17919737FF30022F7DE /* pluslife-Small-40.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16C19737FF30022F7DE /* pluslife-Small-40.png */; };
+		F138A17A19737FF30022F7DE /* pluslife-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16D19737FF30022F7DE /* pluslife-Small-40@2x.png */; };
+		F138A17B19737FF30022F7DE /* pluslife-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16E19737FF30022F7DE /* pluslife-Small-50.png */; };
+		F138A17C19737FF30022F7DE /* pluslife-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A16F19737FF30022F7DE /* pluslife-Small-50@2x.png */; };
+		F138A17D19737FF30022F7DE /* pluslife-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A17019737FF30022F7DE /* pluslife-Small.png */; };
+		F138A17E19737FF30022F7DE /* pluslife-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A17119737FF30022F7DE /* pluslife-Small@2x.png */; };
+		F138A17F19737FF30022F7DE /* pluslife.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A17219737FF30022F7DE /* pluslife.png */; };
+		F138A18019737FF30022F7DE /* pluslife@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F138A17319737FF30022F7DE /* pluslife@2x.png */; };
 		F1985F5A1972231400277585 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F591972231400277585 /* Foundation.framework */; };
 		F1985F5C1972231500277585 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5B1972231500277585 /* CoreGraphics.framework */; };
 		F1985F5E1972231500277585 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1985F5D1972231500277585 /* UIKit.framework */; };
@@ -189,6 +203,20 @@
 		F138A157197373400022F7DE /* ichiran@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ichiran@2x.png"; path = "Images/ichiran@2x.png"; sourceTree = "<group>"; };
 		F138A15C1973766F0022F7DE /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FirstViewController.h; path = ViewControllers/FirstViewController.h; sourceTree = "<group>"; };
 		F138A15D1973766F0022F7DE /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FirstViewController.m; path = ViewControllers/FirstViewController.m; sourceTree = "<group>"; };
+		F138A16419737F610022F7DE /* LaunchImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchImage.png; path = Images/LaunchImage.png; sourceTree = "<group>"; };
+		F138A16719737FF30022F7DE /* pluslife-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-60@2x.png"; path = "Images/icons/pluslife-60@2x.png"; sourceTree = "<group>"; };
+		F138A16819737FF30022F7DE /* pluslife-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-72.png"; path = "Images/icons/pluslife-72.png"; sourceTree = "<group>"; };
+		F138A16919737FF30022F7DE /* pluslife-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-72@2x.png"; path = "Images/icons/pluslife-72@2x.png"; sourceTree = "<group>"; };
+		F138A16A19737FF30022F7DE /* pluslife-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-76.png"; path = "Images/icons/pluslife-76.png"; sourceTree = "<group>"; };
+		F138A16B19737FF30022F7DE /* pluslife-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-76@2x.png"; path = "Images/icons/pluslife-76@2x.png"; sourceTree = "<group>"; };
+		F138A16C19737FF30022F7DE /* pluslife-Small-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-Small-40.png"; path = "Images/icons/pluslife-Small-40.png"; sourceTree = "<group>"; };
+		F138A16D19737FF30022F7DE /* pluslife-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-Small-40@2x.png"; path = "Images/icons/pluslife-Small-40@2x.png"; sourceTree = "<group>"; };
+		F138A16E19737FF30022F7DE /* pluslife-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-Small-50.png"; path = "Images/icons/pluslife-Small-50.png"; sourceTree = "<group>"; };
+		F138A16F19737FF30022F7DE /* pluslife-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-Small-50@2x.png"; path = "Images/icons/pluslife-Small-50@2x.png"; sourceTree = "<group>"; };
+		F138A17019737FF30022F7DE /* pluslife-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-Small.png"; path = "Images/icons/pluslife-Small.png"; sourceTree = "<group>"; };
+		F138A17119737FF30022F7DE /* pluslife-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife-Small@2x.png"; path = "Images/icons/pluslife-Small@2x.png"; sourceTree = "<group>"; };
+		F138A17219737FF30022F7DE /* pluslife.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pluslife.png; path = Images/icons/pluslife.png; sourceTree = "<group>"; };
+		F138A17319737FF30022F7DE /* pluslife@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pluslife@2x.png"; path = "Images/icons/pluslife@2x.png"; sourceTree = "<group>"; };
 		F1985F561972231400277585 /* vdchecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vdchecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1985F591972231400277585 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F1985F5B1972231500277585 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -255,6 +283,8 @@
 		F138A0AF19734E050022F7DE /* Images Files */ = {
 			isa = PBXGroup;
 			children = (
+				F138A16619737FDF0022F7DE /* icons */,
+				F138A16419737F610022F7DE /* LaunchImage.png */,
 				F138A115197366540022F7DE /* topbars */,
 				F138A10A197366300022F7DE /* botans */,
 				F138A0EF19735F5F0022F7DE /* SectionHeader */,
@@ -370,6 +400,26 @@
 				F138A13619736D700022F7DE /* topbar_kensa@2x.png */,
 			);
 			name = topbars;
+			sourceTree = "<group>";
+		};
+		F138A16619737FDF0022F7DE /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				F138A16719737FF30022F7DE /* pluslife-60@2x.png */,
+				F138A16819737FF30022F7DE /* pluslife-72.png */,
+				F138A16919737FF30022F7DE /* pluslife-72@2x.png */,
+				F138A16A19737FF30022F7DE /* pluslife-76.png */,
+				F138A16B19737FF30022F7DE /* pluslife-76@2x.png */,
+				F138A16C19737FF30022F7DE /* pluslife-Small-40.png */,
+				F138A16D19737FF30022F7DE /* pluslife-Small-40@2x.png */,
+				F138A16E19737FF30022F7DE /* pluslife-Small-50.png */,
+				F138A16F19737FF30022F7DE /* pluslife-Small-50@2x.png */,
+				F138A17019737FF30022F7DE /* pluslife-Small.png */,
+				F138A17119737FF30022F7DE /* pluslife-Small@2x.png */,
+				F138A17219737FF30022F7DE /* pluslife.png */,
+				F138A17319737FF30022F7DE /* pluslife@2x.png */,
+			);
+			name = icons;
 			sourceTree = "<group>";
 		};
 		F1985F4D1972231400277585 = {
@@ -541,10 +591,14 @@
 				F138A13F19736EAB0022F7DE /* botan_12.png in Resources */,
 				F138A0FF19735FA90022F7DE /* kuchi.png in Resources */,
 				F1985F951972235600277585 /* RemoteInfo in Resources */,
+				F138A16519737F610022F7DE /* LaunchImage.png in Resources */,
 				F138A10019735FA90022F7DE /* me.png in Resources */,
 				F138A112197366470022F7DE /* botan_3.png in Resources */,
 				F1985F701972231500277585 /* Main_iPad.storyboard in Resources */,
+				F138A17719737FF30022F7DE /* pluslife-76.png in Resources */,
 				F138A158197373400022F7DE /* ichiran@2x.png in Resources */,
+				F138A18019737FF30022F7DE /* pluslife@2x.png in Resources */,
+				F138A17B19737FF30022F7DE /* pluslife-Small-50.png in Resources */,
 				F138A13719736D700022F7DE /* topbar_kekka_3@2x.png in Resources */,
 				F138A13E19736EAB0022F7DE /* botan_11.png in Resources */,
 				F138A107197364340022F7DE /* Section_Woman@2x.png in Resources */,
@@ -556,10 +610,14 @@
 				F138A14019736EAB0022F7DE /* botan_13.png in Resources */,
 				F138A0C7197355F80022F7DE /* check_1.png in Resources */,
 				F138A14919736F7B0022F7DE /* image_5.png in Resources */,
+				F138A17E19737FF30022F7DE /* pluslife-Small@2x.png in Resources */,
 				F138A129197369F20022F7DE /* ill_Info.txt in Resources */,
 				F138A0BD1973534A0022F7DE /* top_4.png in Resources */,
+				F138A17A19737FF30022F7DE /* pluslife-Small-40@2x.png in Resources */,
 				F138A12B19736C630022F7DE /* botan_10.png in Resources */,
+				F138A17C19737FF30022F7DE /* pluslife-Small-50@2x.png in Resources */,
 				F138A11A1973666B0022F7DE /* topbar_check_2@2x.png in Resources */,
+				F138A17619737FF30022F7DE /* pluslife-72@2x.png in Resources */,
 				F138A13219736C790022F7DE /* image_3-1.png in Resources */,
 				F138A14B19736F7B0022F7DE /* image_7.png in Resources */,
 				F138A13119736C790022F7DE /* image_2.png in Resources */,
@@ -570,7 +628,9 @@
 				F138A106197364340022F7DE /* Section_Man@2x.png in Resources */,
 				F138A13819736D700022F7DE /* topbar_kekka_4@2x.png in Resources */,
 				F138A14119736EAB0022F7DE /* botan_14.png in Resources */,
+				F138A17D19737FF30022F7DE /* pluslife-Small.png in Resources */,
 				F138A0FB19735FA90022F7DE /* atama.png in Resources */,
+				F138A17819737FF30022F7DE /* pluslife-76@2x.png in Resources */,
 				F138A14E197370930022F7DE /* about@2x.png in Resources */,
 				F138A13919736D700022F7DE /* topbar_kensa@2x.png in Resources */,
 				F138A113197366470022F7DE /* botan_4.png in Resources */,
@@ -589,14 +649,18 @@
 				F138A0BB1973534A0022F7DE /* top_2.png in Resources */,
 				F138A0FD19735FA90022F7DE /* inbu.png in Resources */,
 				F1985F641972231500277585 /* InfoPlist.strings in Resources */,
+				F138A17F19737FF30022F7DE /* pluslife.png in Resources */,
 				F1985F941972235600277585 /* PageScrap.php in Resources */,
 				F138A111197366470022F7DE /* botan_2.png in Resources */,
 				F138A0FA19735FA90022F7DE /* ashi.png in Resources */,
+				F138A17919737FF30022F7DE /* pluslife-Small-40.png in Resources */,
 				F138A0BA1973534A0022F7DE /* top_1.png in Resources */,
 				F138A0BC1973534A0022F7DE /* top_3.png in Resources */,
 				F138A110197366470022F7DE /* botan_1.png in Resources */,
 				F138A125197367CD0022F7DE /* botan_9.png in Resources */,
+				F138A17519737FF30022F7DE /* pluslife-72.png in Resources */,
 				F138A10119735FA90022F7DE /* nodo.png in Resources */,
+				F138A17419737FF30022F7DE /* pluslife-60@2x.png in Resources */,
 				F138A13019736C790022F7DE /* image_1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -767,10 +831,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vdchecker/vdchecker-Prefix.pch";
 				INFOPLIST_FILE = "vdchecker/vdchecker-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "vdchecker/vdchecker-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -780,10 +848,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vdchecker/vdchecker-Prefix.pch";
 				INFOPLIST_FILE = "vdchecker/vdchecker-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "vdchecker/vdchecker-Bridging-Header.h";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
