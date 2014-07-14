@@ -198,7 +198,7 @@
                         <rect key="frame" x="0.0" y="44" width="320" height="524"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="kekka_1.png" translatesAutoresizingMaskIntoConstraints="NO" id="Vc3-SK-6wb">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="kakka_1.png" translatesAutoresizingMaskIntoConstraints="NO" id="Vc3-SK-6wb">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="524"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y2z-qc-9Us">
@@ -1053,7 +1053,7 @@
         <image name="image_5.png" width="640" height="120"/>
         <image name="image_6.png" width="640" height="120"/>
         <image name="image_7.png" width="640" height="180"/>
-        <image name="kekka_1.png" width="640" height="1048"/>
+        <image name="kakka_1.png" width="640" height="1048"/>
         <image name="kekka_2.png" width="320" height="568"/>
         <image name="kensa.png" width="320" height="568"/>
         <image name="top.png" width="640" height="1136"/>
@@ -1068,8 +1068,8 @@
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
         <segue reference="jGW-cB-mpw"/>
-        <segue reference="Nw8-CC-Z0h"/>
-        <segue reference="P09-0q-T3P"/>
+        <segue reference="Lp8-Ic-pet"/>
         <segue reference="Zo3-hR-3rG"/>
+        <segue reference="2hp-X6-b3v"/>
     </inferredMetricsTieBreakers>
 </document>
