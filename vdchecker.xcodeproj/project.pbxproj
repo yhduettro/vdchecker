@@ -283,8 +283,8 @@
 		F138A0AF19734E050022F7DE /* Images Files */ = {
 			isa = PBXGroup;
 			children = (
-				F138A16619737FDF0022F7DE /* icons */,
 				F138A16419737F610022F7DE /* LaunchImage.png */,
+				F138A16619737FDF0022F7DE /* icons */,
 				F138A115197366540022F7DE /* topbars */,
 				F138A10A197366300022F7DE /* botans */,
 				F138A0EF19735F5F0022F7DE /* SectionHeader */,
@@ -832,6 +832,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: younghwan moon (WHL395562M)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vdchecker/vdchecker-Prefix.pch";
 				INFOPLIST_FILE = "vdchecker/vdchecker-Info.plist";
@@ -839,6 +840,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "vdchecker/vdchecker-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -849,12 +851,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: younghwan moon (2GP4M3XF7S)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "vdchecker/vdchecker-Prefix.pch";
 				INFOPLIST_FILE = "vdchecker/vdchecker-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "vdchecker/vdchecker-Bridging-Header.h";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
